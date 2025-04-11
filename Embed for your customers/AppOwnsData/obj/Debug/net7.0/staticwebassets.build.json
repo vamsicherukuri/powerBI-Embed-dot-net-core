@@ -1,0 +1,1361 @@
+{
+  "Version": 1,
+  "Hash": "QkHeM+piSDrNBK5b9TeQjhZsccfQKsO8vu6Hj0W2c7s=",
+  "Source": "AppOwnsData",
+  "BasePath": "_content/AppOwnsData",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppOwnsData\\wwwroot",
+      "Source": "AppOwnsData",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\css\\index.css",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "css/index#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ghcl21bime",
+      "Integrity": "jLfuXYLeH8uV6YFSB9c5aZGALHSdjQXrT0+6KKxFNos=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\favicon.ico",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "90yqlj465b",
+      "Integrity": "qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\js\\index.js",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "js/index#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "l64llt6di6",
+      "Integrity": "bXH7fW4uJhY1OqXrhn/MKb5vE7BVKjJG9P3SX96+Bw0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\index.js"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v8f0c76h7q",
+      "Integrity": "L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "w13cp15x2d",
+      "Integrity": "jHgU12LiLOiM/9lbDcvvEk20pgpAHhIKPeGcIiYyEFg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "uz5gbax3qk",
+      "Integrity": "WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "1iand3os7l",
+      "Integrity": "F9K+Fx+uA/7x9dexmlkYOiihS8oNbqOjYfPvhgs19Us=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/bootstrap/LICENSE#[.{fingerprint}]?",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "dbui1un4d8",
+      "Integrity": "B02ZuMJdE2SdrFIICQDujI0jc9B+o/T7Z70r95qozHI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xiab36ab8a",
+      "Integrity": "CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint}]?.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "vjt1rqnoea",
+      "Integrity": "216gdJ9jyl9OLrNNj28ZfQS92h9jPHKgx3y0us/UhLE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/jquery/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "33bcjk7gyg",
+      "Integrity": "H/YDEY79sxN5lWfLSkCFlJVDhPQIQ8pvKcWW9bH4kH0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\dist\\powerbi.min.js",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/powerbi-client/dist/powerbi.min#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "blpw8qjl8w",
+      "Integrity": "cZY1YlFhSmmhix7WB7p1tX0mU7NO8Qm1SfNCQolxqG8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\powerbi-client\\dist\\powerbi.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\LICENSE.txt",
+      "SourceId": "AppOwnsData",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\",
+      "BasePath": "_content/AppOwnsData",
+      "RelativePath": "lib/powerbi-client/LICENSE#[.{fingerprint}]?.txt",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f0m8miatuz",
+      "Integrity": "kaCIoVtngsOMcP8D/uu8L6klHHDRDkgvjMNHNcLYpXs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\powerbi-client\\LICENSE.txt"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/index.css",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLfuXYLeH8uV6YFSB9c5aZGALHSdjQXrT0+6KKxFNos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLfuXYLeH8uV6YFSB9c5aZGALHSdjQXrT0+6KKxFNos="
+        }
+      ]
+    },
+    {
+      "Route": "css/index.ghcl21bime.css",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\css\\index.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "721"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jLfuXYLeH8uV6YFSB9c5aZGALHSdjQXrT0+6KKxFNos=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ghcl21bime"
+        },
+        {
+          "Name": "label",
+          "Value": "css/index.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jLfuXYLeH8uV6YFSB9c5aZGALHSdjQXrT0+6KKxFNos="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.90yqlj465b.ico",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "90yqlj465b"
+        },
+        {
+          "Name": "label",
+          "Value": "favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "favicon.ico",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "32038"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-qU+KhVPK6oQw3UyjzAHU4xjRmCj3TLZUU/+39dni9E0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXH7fW4uJhY1OqXrhn/MKb5vE7BVKjJG9P3SX96+Bw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXH7fW4uJhY1OqXrhn/MKb5vE7BVKjJG9P3SX96+Bw0="
+        }
+      ]
+    },
+    {
+      "Route": "js/index.l64llt6di6.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\js\\index.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2928"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bXH7fW4uJhY1OqXrhn/MKb5vE7BVKjJG9P3SX96+Bw0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:26:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "l64llt6di6"
+        },
+        {
+          "Name": "label",
+          "Value": "js/index.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bXH7fW4uJhY1OqXrhn/MKb5vE7BVKjJG9P3SX96+Bw0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jHgU12LiLOiM/9lbDcvvEk20pgpAHhIKPeGcIiYyEFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-jHgU12LiLOiM/9lbDcvvEk20pgpAHhIKPeGcIiYyEFg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.css.w13cp15x2d.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "641867"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"jHgU12LiLOiM/9lbDcvvEk20pgpAHhIKPeGcIiYyEFg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "w13cp15x2d"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-jHgU12LiLOiM/9lbDcvvEk20pgpAHhIKPeGcIiYyEFg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/css/bootstrap.min.v8f0c76h7q.css",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "159515"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v8f0c76h7q"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/css/bootstrap.min.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-L/W5Wfqfa0sdBNIKN9cG6QA5F2qx4qICmU2VgLruv9Y="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.1iand3os7l.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9K+Fx+uA/7x9dexmlkYOiihS8oNbqOjYfPvhgs19Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "1iand3os7l"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9K+Fx+uA/7x9dexmlkYOiihS8oNbqOjYfPvhgs19Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "194435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"F9K+Fx+uA/7x9dexmlkYOiihS8oNbqOjYfPvhgs19Us=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-F9K+Fx+uA/7x9dexmlkYOiihS8oNbqOjYfPvhgs19Us="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/dist/js/bootstrap.min.uz5gbax3qk.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "60010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "uz5gbax3qk"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/dist/js/bootstrap.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqU1JavFxSAMcLP2WIOI+GB2zWmShMI82mTpLDcqFUg="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B02ZuMJdE2SdrFIICQDujI0jc9B+o/T7Z70r95qozHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-B02ZuMJdE2SdrFIICQDujI0jc9B+o/T7Z70r95qozHI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/bootstrap/LICENSE.dbui1un4d8",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"B02ZuMJdE2SdrFIICQDujI0jc9B+o/T7Z70r95qozHI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dbui1un4d8"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/bootstrap/LICENSE"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-B02ZuMJdE2SdrFIICQDujI0jc9B+o/T7Z70r95qozHI="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"216gdJ9jyl9OLrNNj28ZfQS92h9jPHKgx3y0us/UhLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-216gdJ9jyl9OLrNNj28ZfQS92h9jPHKgx3y0us/UhLE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.vjt1rqnoea.map",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "136397"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"216gdJ9jyl9OLrNNj28ZfQS92h9jPHKgx3y0us/UhLE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "vjt1rqnoea"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.map"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-216gdJ9jyl9OLrNNj28ZfQS92h9jPHKgx3y0us/UhLE="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/dist/jquery.min.xiab36ab8a.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "88145"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xiab36ab8a"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/dist/jquery.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.33bcjk7gyg.txt",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/YDEY79sxN5lWfLSkCFlJVDhPQIQ8pvKcWW9bH4kH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "33bcjk7gyg"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/jquery/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/YDEY79sxN5lWfLSkCFlJVDhPQIQ8pvKcWW9bH4kH0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/jquery/LICENSE.txt",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1095"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"H/YDEY79sxN5lWfLSkCFlJVDhPQIQ8pvKcWW9bH4kH0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-H/YDEY79sxN5lWfLSkCFlJVDhPQIQ8pvKcWW9bH4kH0="
+        }
+      ]
+    },
+    {
+      "Route": "lib/powerbi-client/dist/powerbi.min.blpw8qjl8w.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\dist\\powerbi.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZY1YlFhSmmhix7WB7p1tX0mU7NO8Qm1SfNCQolxqG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "blpw8qjl8w"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/powerbi-client/dist/powerbi.min.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZY1YlFhSmmhix7WB7p1tX0mU7NO8Qm1SfNCQolxqG8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/powerbi-client/dist/powerbi.min.js",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\dist\\powerbi.min.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "161343"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"cZY1YlFhSmmhix7WB7p1tX0mU7NO8Qm1SfNCQolxqG8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-cZY1YlFhSmmhix7WB7p1tX0mU7NO8Qm1SfNCQolxqG8="
+        }
+      ]
+    },
+    {
+      "Route": "lib/powerbi-client/LICENSE.f0m8miatuz.txt",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kaCIoVtngsOMcP8D/uu8L6klHHDRDkgvjMNHNcLYpXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f0m8miatuz"
+        },
+        {
+          "Name": "label",
+          "Value": "lib/powerbi-client/LICENSE.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-kaCIoVtngsOMcP8D/uu8L6klHHDRDkgvjMNHNcLYpXs="
+        }
+      ]
+    },
+    {
+      "Route": "lib/powerbi-client/LICENSE.txt",
+      "AssetFile": "C:\\Users\\vcherukuri\\Downloads\\PowerBI-Developer-Samples-master\\PowerBI-Developer-Samples-master\\.NET Core\\Embed for your customers\\AppOwnsData\\wwwroot\\lib\\powerbi-client\\LICENSE.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1139"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"kaCIoVtngsOMcP8D/uu8L6klHHDRDkgvjMNHNcLYpXs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 11 Apr 2025 21:31:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-kaCIoVtngsOMcP8D/uu8L6klHHDRDkgvjMNHNcLYpXs="
+        }
+      ]
+    }
+  ]
+}
